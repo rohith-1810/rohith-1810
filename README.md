@@ -25,4 +25,4 @@ University of Passau, Germany
 
 ### 🤝 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/rohith-kumar-subbaraj/
-- GitHub: YOUR_GITHUB_PROFILE_URL
+- GitHub: https://github.com/rohith-1810
